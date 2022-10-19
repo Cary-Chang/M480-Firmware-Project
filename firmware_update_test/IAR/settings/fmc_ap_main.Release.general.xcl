@@ -1,0 +1,13 @@
+"D:\IAR Systems\Embedded Workbench 8.3\arm\bin\armproc.dll" 
+
+"D:\IAR Systems\Embedded Workbench 8.3\arm\bin\Nu-Link\Nu-Link_IAR.dll" 
+
+"D:\IAR Project Backup\FMC_IAP_ledtest(M480)\IAR\Release\Exe\fmc_ap_main.out" 
+
+--plugin="D:\IAR Systems\Embedded Workbench 8.3\arm\bin\armbat.dll" 
+
+--flash_loader="D:\IAR Systems\Embedded Workbench 8.3\arm\config\flashloader\Nuvoton\M481_APROM.board" 
+
+
+
+

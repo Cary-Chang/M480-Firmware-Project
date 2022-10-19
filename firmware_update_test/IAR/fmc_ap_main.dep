@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>4</fileVersion>
+    <fileChecksum>1267984636</fileChecksum>
+    <configuration>
+        <name>Release</name>
+        <outputs>
+            <file>$PROJ_DIR$\Release\Obj\clk.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\eadc_reg.h</file>
+            <file>$PROJ_DIR$\Release\Obj\APROM_main.o</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\pdma_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\crc_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\uuart_reg.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\usbh_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\src\gpio.c</file>
+            <file>$PROJ_DIR$\Release\Obj\system_M480.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\config\generic_cortex.icf</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\pdma.h</file>
+            <file>$PROJ_DIR$\Release\Obj\system_M480.o</file>
+            <file>$PROJ_DIR$\Release\Obj\clk.xcl</file>
+            <file>$PROJ_DIR$\Release\Obj\sys.o</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\spim.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\spim_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\CMSIS\Include\core_cmInstr.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\can_reg.h</file>
+            <file>$PROJ_DIR$\Release\Obj\fmc.o</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\emac.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\crypto_reg.h</file>
+            <file>$PROJ_DIR$\Release\Obj\retarget.xcl</file>
+            <file>$PROJ_DIR$\Release\Obj\system_M480.xcl</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\otg.h</file>
+            <file>$PROJ_DIR$\Release\Exe\fmc_ap_main.out</file>
+            <file>$PROJ_DIR$\Release\Obj\fmc_ap_main.pbd</file>
+            <file>$PROJ_DIR$\..\APROM_main.c</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\src\sys.c</file>
+            <file>$PROJ_DIR$\Release\Obj\clk.o</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\src\retarget.c</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\src\uart.c</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Source\system_M480.c</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Source\IAR\startup_M480.s</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\src\clk.c</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\src\fmc.c</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\qei.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\usci_spi.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\ebi.h</file>
+            <file>$PROJ_DIR$\Release\Obj\sys.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\bpwm.h</file>
+            <file>$PROJ_DIR$\Release\Obj\uart.xcl</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\timer_pwm.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\dac_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\sdh_reg.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\hsusbh_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\fmc_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\usci_i2c.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\usbd_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\crypto.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\epwm.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\hsusbd_reg.h</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\uart.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\acmp_reg.h</file>
+            <file>$PROJ_DIR$\Release\Exe\fmc_ap_main.bin</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+            <file>$PROJ_DIR$\Release\Obj\fmc.xcl</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\scuart.h</file>
+            <file>$TOOLKIT_DIR$\lib\m7M_tls.a</file>
+            <file>$PROJ_DIR$\Release\Obj\retarget.o</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\sc.h</file>
+            <file>$PROJ_DIR$\Release\Obj\startup_M480.o</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\usbd.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\i2s.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\gpio.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\fmc.h</file>
+            <file>$PROJ_DIR$\Release\Obj\uart.o</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\acmp.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\wdt_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\hsotg.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\spi.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\rtc.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\ebi_reg.h</file>
+            <file>$PROJ_DIR$\Release\Exe\fmc_ld_code.bin</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\M480.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\dac.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\timer.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\timer_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\clk.h</file>
+            <file>$PROJ_DIR$\Release\Obj\APROM_main.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\hsotg_reg.h</file>
+            <file>$PROJ_DIR$\Release\Obj\uart.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\sys.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\CMSIS\Include\core_cm4.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\sdh.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\i2s_reg.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\Release\Obj\fmc.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\opa.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\can.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\opa_reg.h</file>
+            <file>$PROJ_DIR$\Release\Obj\sys.xcl</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\qspi_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\otg_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\ecap.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\wdt.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\emac_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\ui2c_reg.h</file>
+            <file>$PROJ_DIR$\Release\Obj\gpio.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\NuMicro.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\hsusbd.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\qei_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\CMSIS\Include\core_cmSimd.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\crc.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\usci_uart.h</file>
+            <file>$PROJ_DIR$\Release\Obj\gpio.o</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\epwm_reg.h</file>
+            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\qspi.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\i2c.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\wwdt_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\CMSIS\Include\core_cmFunc.h</file>
+            <file>$TOOLKIT_DIR$\lib\dl7M_tlf.a</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\i2c_reg.h</file>
+            <file>$PROJ_DIR$\Release\Obj\gpio.xcl</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\clk_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\ecap_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\spi_reg.h</file>
+            <file>$PROJ_DIR$\Release\Obj\APROM_main.xcl</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\gpio_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\uart_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\sc_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\sys_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\rtc_reg.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Full.h</file>
+            <file>$PROJ_DIR$\Release\Obj\retarget.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\c\iccarm_builtin.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\uspi_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\wwdt.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\inc\eadc.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\system_M480.h</file>
+            <file>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Include\bpwm_reg.h</file>
+        </outputs>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 25</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\src\gpio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 111</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 120</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 102</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 103 78 87 71 6 38 90 130 46 17 105 132 117 107 136 128 121 48 125 3 81 72 116 129 112 137 106 122 126 100 127 89 123 96 16 119 5 133 101 18 45 76 50 53 7 47 97 84 4 21 1 44 56 94 86 82 70 79 20 55 37 67 98 36 80 43 11 51 68 15 115 66 52 135 41 99 134 92 108 39 49 60 63 74 114 93 75 110 88 58 109 65 104 24 73</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Release\Exe\fmc_ap_main.out</name>
+            <outputs>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 57</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 10 77 2 29 19 111 62 64 14 12 69 54 113 61 118</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\APROM_main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 2</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 124</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 83</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 58 6 38 90 130 46 109 103 78 87 71 17 105 132 117 107 136 128 121 48 125 3 81 72 116 129 112 137 106 122 126 100 127 89 123 96 16 119 5 133 101 18 45 76 50 53 7 47 97 84 4 21 1 44 56 94 86 82 70 79 20 55 37 67 98 36 80 43 11 51 68 15 115 66 52 135 41 99 134 92 108 39 49 60 63 74 114 93 75 110 88 65 104 24 73</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\src\sys.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 14</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 95</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 40</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 103 78 87 71 6 38 90 130 46 17 105 132 117 107 136 128 121 48 125 3 81 72 116 129 112 137 106 122 126 100 127 89 123 96 16 119 5 133 101 18 45 76 50 53 7 47 97 84 4 21 1 44 56 94 86 82 70 79 20 55 37 67 98 36 80 43 11 51 68 15 115 66 52 135 41 99 134 92 108 39 49 60 63 74 114 93 75 110 88 58 109 65 104 24 73</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\src\retarget.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 62</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 22</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 131</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 58 6 38 90 130 46 109 103 78 87 71 17 105 132 117 107 136 128 121 48 125 3 81 72 116 129 112 137 106 122 126 100 127 89 123 96 16 119 5 133 101 18 45 76 50 53 7 47 97 84 4 21 1 44 56 94 86 82 70 79 20 55 37 67 98 36 80 43 11 51 68 15 115 66 52 135 41 99 134 92 108 39 49 60 63 74 114 93 75 110 88 65 104 24 73</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\src\uart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 69</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 42</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 85</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 58 6 38 90 130 46 109 103 78 87 71 17 105 132 117 107 136 128 121 48 125 3 81 72 116 129 112 137 106 122 126 100 127 89 123 96 16 119 5 133 101 18 45 76 50 53 7 47 97 84 4 21 1 44 56 94 86 82 70 79 20 55 37 67 98 36 80 43 11 51 68 15 115 66 52 135 41 99 134 92 108 39 49 60 63 74 114 93 75 110 88 65 104 24 73</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Source\system_M480.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 12</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 23</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 9</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 103 78 87 71 6 38 90 130 46 17 105 132 117 107 136 128 121 48 125 3 81 72 116 129 112 137 106 122 126 100 127 89 123 96 16 119 5 133 101 18 45 76 50 53 7 47 97 84 4 21 1 44 56 94 86 82 70 79 20 55 37 67 98 36 80 43 11 51 68 15 115 66 52 135 41 99 134 92 108 39 49 60 63 74 114 93 75 110 88 58 109 65 104 24 73</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\Device\Nuvoton\M480\Source\IAR\startup_M480.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 64</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\src\clk.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 29</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 13</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 0</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 103 78 87 71 6 38 90 130 46 17 105 132 117 107 136 128 121 48 125 3 81 72 116 129 112 137 106 122 126 100 127 89 123 96 16 119 5 133 101 18 45 76 50 53 7 47 97 84 4 21 1 44 56 94 86 82 70 79 20 55 37 67 98 36 80 43 11 51 68 15 115 66 52 135 41 99 134 92 108 39 49 60 63 74 114 93 75 110 88 58 109 65 104 24 73</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\project\M480_BSP_CMSIS_V3.03.001\Library\StdDriver\src\fmc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 19</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 59</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 91</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 58 6 38 90 130 46 109 103 78 87 71 17 105 132 117 107 136 128 121 48 125 3 81 72 116 129 112 137 106 122 126 100 127 89 123 96 16 119 5 133 101 18 45 76 50 53 7 47 97 84 4 21 1 44 56 94 86 82 70 79 20 55 37 67 98 36 80 43 11 51 68 15 115 66 52 135 41 99 134 92 108 39 49 60 63 74 114 93 75 110 88 65 104 24 73</file>
+                </tool>
+            </inputs>
+        </file>
+    </configuration>
+</project>

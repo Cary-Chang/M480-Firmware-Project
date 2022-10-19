@@ -1,0 +1,37 @@
+#Generating source browse information for project fmc_ld_code
+
+
+#Abbreviations
+cc = D$:\IAR$ Systems\Embedded$ Workbench$ 8.3\common\bin\SourceIndexer.exe
+ll = D$:\IAR$ Systems\Embedded$ Workbench$ 8.3\common\bin\PbdLink.exe
+bd = D$:\IAR$ Systems\Embedded$ Workbench$ 8.3\common\bin\makeBrowseData.exe
+
+
+
+#Rules
+rule index
+  depfile = $out.dep
+  command = $cc -out=$out -f $in
+rule link
+  command = $ll -M $out $in
+rule browsedata
+  command = $bd $in -output  $out
+
+
+
+#Build steps
+build system_M480.pbi : index system_M480.xcl
+build clk.pbi : index clk.xcl
+build fmc.pbi : index fmc.xcl
+build gpio.pbi : index gpio.xcl
+build retarget.pbi : index retarget.xcl
+build sys.pbi : index sys.xcl
+build uart.pbi : index uart.xcl
+build LDROM_iap.pbi : index LDROM_iap.xcl
+build fmc_ld_code_part0.pbi : link system_M480.pbi clk.pbi fmc.pbi
+build fmc_ld_code_part1.pbi : link gpio.pbi retarget.pbi sys.pbi
+build fmc_ld_code_part2.pbi : link uart.pbi LDROM_iap.pbi
+build fmc_ld_code.pbd : link fmc_ld_code_part0.pbi fmc_ld_code_part1.pbi fmc_ld_code_part2.pbi
+build fmc_ld_code.pbw : browsedata fmc_ld_code.pbd
+
+

@@ -1,0 +1,19 @@
+"--endian=little" 
+
+"--cpu=Cortex-M4" 
+
+"--fpu=VFPv4_SP" 
+
+"-p" 
+
+"D:\IAR Systems\Embedded Workbench 8.3\arm\CONFIG\debugger\Nuvoton\iom480ae.ddf" 
+
+"--drv_verify_download" 
+
+"--semihosting" 
+
+"--device=M481" 
+
+
+
+
