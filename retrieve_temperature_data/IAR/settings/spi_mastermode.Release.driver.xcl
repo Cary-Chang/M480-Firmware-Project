@@ -1,0 +1,17 @@
+"--endian=little" 
+
+"--cpu=Cortex-M4" 
+
+"--fpu=VFPv4_SP" 
+
+"-p" 
+
+"D:\IAR Systems\Embedded Workbench 8.3\arm\CONFIG\debugger\Nuvoton\ionuc400ae.ddf" 
+
+"--semihosting" 
+
+"--device=NUC400" 
+
+
+
+

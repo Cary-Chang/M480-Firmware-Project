@@ -1,0 +1,13 @@
+"D:\IAR Systems\Embedded Workbench 8.3\arm\bin\armproc.dll" 
+
+"D:\IAR Systems\Embedded Workbench 8.3\arm\bin\Nu-Link\Nu-Link_IAR.dll" 
+
+"D:\IAR Project Backup\Temperature_adjustment\IAR\Release\Exe\spi_mastermode.out" 
+
+--plugin="D:\IAR Systems\Embedded Workbench 8.3\arm\bin\armbat.dll" 
+
+--flash_loader="D:\IAR Systems\Embedded Workbench 8.3\arm\config\flashloader\Nuvoton\NUC400_APROM.board" 
+
+
+
+
